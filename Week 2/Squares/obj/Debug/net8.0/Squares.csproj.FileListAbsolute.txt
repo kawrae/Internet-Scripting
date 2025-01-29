@@ -1,0 +1,14 @@
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\bin\Debug\net8.0\Squares.exe
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\bin\Debug\net8.0\Squares.deps.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\bin\Debug\net8.0\Squares.runtimeconfig.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\bin\Debug\net8.0\Squares.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\bin\Debug\net8.0\Squares.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\Squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\Squares.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\Squares.AssemblyInfo.cs
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\Squares.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\Squares.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\refint\Squares.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\Squares.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\Squares.genruntimeconfig.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Squares\obj\Debug\net8.0\ref\Squares.dll

@@ -1,0 +1,14 @@
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\bin\Debug\net8.0\CustomHelloWorld.exe
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\bin\Debug\net8.0\CustomHelloWorld.deps.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\bin\Debug\net8.0\CustomHelloWorld.runtimeconfig.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\bin\Debug\net8.0\CustomHelloWorld.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\bin\Debug\net8.0\CustomHelloWorld.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\CustomHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\CustomHelloWorld.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\CustomHelloWorld.AssemblyInfo.cs
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\CustomHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\CustomHelloWorld.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\refint\CustomHelloWorld.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\CustomHelloWorld.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\CustomHelloWorld.genruntimeconfig.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomHelloWorld\obj\Debug\net8.0\ref\CustomHelloWorld.dll

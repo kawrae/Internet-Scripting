@@ -1,0 +1,14 @@
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\bin\Debug\net8.0\CustomGreeting.exe
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\bin\Debug\net8.0\CustomGreeting.deps.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\bin\Debug\net8.0\CustomGreeting.runtimeconfig.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\bin\Debug\net8.0\CustomGreeting.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\bin\Debug\net8.0\CustomGreeting.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\CustomGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\CustomGreeting.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\CustomGreeting.AssemblyInfo.cs
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\CustomGreeting.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\CustomGreeting.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\refint\CustomGreeting.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\CustomGreeting.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\CustomGreeting.genruntimeconfig.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\CustomGreeting\obj\Debug\net8.0\ref\CustomGreeting.dll
