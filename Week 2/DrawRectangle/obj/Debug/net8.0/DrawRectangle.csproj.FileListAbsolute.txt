@@ -1,0 +1,15 @@
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\bin\Debug\net8.0\DrawRectangle.exe
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\bin\Debug\net8.0\DrawRectangle.deps.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\bin\Debug\net8.0\DrawRectangle.runtimeconfig.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\bin\Debug\net8.0\DrawRectangle.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\bin\Debug\net8.0\DrawRectangle.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\DrawRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\DrawRectangle.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\DrawRectangle.AssemblyInfo.cs
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\DrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\DrawRectangle.sourcelink.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\DrawRectangle.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\refint\DrawRectangle.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\DrawRectangle.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\DrawRectangle.genruntimeconfig.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\DrawRectangle\obj\Debug\net8.0\ref\DrawRectangle.dll

@@ -1,0 +1,15 @@
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\bin\Debug\net8.0\Temperature.exe
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\bin\Debug\net8.0\Temperature.deps.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\bin\Debug\net8.0\Temperature.runtimeconfig.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\bin\Debug\net8.0\Temperature.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\bin\Debug\net8.0\Temperature.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\Temperature.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\Temperature.AssemblyInfo.cs
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\Temperature.sourcelink.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\Temperature.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\refint\Temperature.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\Temperature.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\Temperature.genruntimeconfig.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\Temperature\obj\Debug\net8.0\ref\Temperature.dll
