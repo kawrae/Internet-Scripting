@@ -1,0 +1,15 @@
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\bin\Debug\net8.0\RandomSum.exe
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\bin\Debug\net8.0\RandomSum.deps.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\bin\Debug\net8.0\RandomSum.runtimeconfig.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\bin\Debug\net8.0\RandomSum.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\bin\Debug\net8.0\RandomSum.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\RandomSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\RandomSum.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\RandomSum.AssemblyInfo.cs
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\RandomSum.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\RandomSum.sourcelink.json
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\RandomSum.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\refint\RandomSum.dll
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\RandomSum.pdb
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\RandomSum.genruntimeconfig.cache
+C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\Week 2\RandomSum\obj\Debug\net8.0\ref\RandomSum.dll
