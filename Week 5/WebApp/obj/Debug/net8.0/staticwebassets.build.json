@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "xb6CJ9ArpiVK9aeXxRhnpy4UjR3A+taupHu/CGCetEg=",
+  "Source": "WEBAPP",
+  "BasePath": "_content/WEBAPP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WEBAPP\\wwwroot",
+      "Source": "WEBAPP",
+      "ContentRoot": "C:\\Users\\corey\\OneDrive - University of the West of Scotland\\UWS\\Year 3\\Term 2\\Internet Scripting\\Week 5\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WEBAPP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

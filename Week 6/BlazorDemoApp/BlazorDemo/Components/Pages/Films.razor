@@ -1,0 +1,24 @@
+@page "/films"
+@using FilmDetails
+@using Microsoft.EntityFrameworkCore
+@inject FilmContext FilmContext
+
+
+<h3>FilmsDatabase</h3>
+
+<ul>
+    @foreach (var film in films!)
+    {
+        <li>@film.Title (@film.Year)</li>
+    }
+</ul>
+
+@code {
+    private List<Film>? films;
+    protected override async Task OnInitializedAsync()
+    {
+        films = await FilmContext.Films!.ToListAsync();
+    }
+
+
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BLAZOR\\UWS\\SANDBOX\\week5\\WEBAPP\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEBAPP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WEBAPP.props",
+      "PackagePath": "build\\WEBAPP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WEBAPP.props",
+      "PackagePath": "buildMultiTargeting\\WEBAPP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WEBAPP.props",
+      "PackagePath": "buildTransitive\\WEBAPP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

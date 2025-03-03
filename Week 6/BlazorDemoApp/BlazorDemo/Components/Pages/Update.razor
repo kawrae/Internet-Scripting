@@ -1,0 +1,37 @@
+@page "/update/{FilmId:int}"
+@using FilmDetails
+@inject FilmContext FilmContext
+@inject NavigationManager NavigationManager
+
+<h3>Update Film</h3>
+
+<EditForm Model="film" OnValidSubmit="HandleValidSubmit">
+    <div>
+        <label for="Title">Title:</label>
+        <InputText id="Title" @bind-Value="film!.Title" />
+    </div>
+    <div>
+        <label for="Year">Year:</label>
+        <InputNumber id="Year" @bind-Value="film.Year" />
+    </div>
+    <button type="submit">Save</button>
+</EditForm>
+
+
+@code {
+    [Parameter] public int FilmId { get; set; }
+    private Film? film;
+    protected override async Task OnInitializedAsync()
+    {
+        film = await FilmContext.Films!.FindAsync(FilmId);
+    }
+    private async Task HandleValidSubmit()
+    {
+        if (film != null)
+        {
+            FilmContext.Films!.Update(film);
+            await FilmContext.SaveChangesAsync();
+            NavigationManager.NavigateTo("/");
+        }
+    }
+}
