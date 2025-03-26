@@ -1,0 +1,29 @@
+﻿@page
+@model project.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4">Chinook Album Manager</h1>
+    <p class="lead">Project submission for COMP09020 - Internet Scripting</p>
+    <a class="btn btn-primary btn-lg mt-4" href="/Albums">Manage Albums</a>
+</div>
+
+<style>
+    body {
+        background: linear-gradient(to right, #f8f9fa, #e0e0e0);
+        font-family: 'Times New Roman', Times, serif;
+    }
+    h1 {
+        color: #343a40;
+        font-weight: 500;
+    }
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        border-radius: 30px;
+        padding: 10px 30px;
+        font-size: 1.2rem;
+    }
+</style>

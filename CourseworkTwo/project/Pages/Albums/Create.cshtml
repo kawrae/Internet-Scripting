@@ -1,0 +1,30 @@
+@page
+@model project.Pages.Albums.CreateModel
+@{
+    ViewData["Title"] = "Create Album";
+}
+
+<h2>Create New Album</h2>
+
+<form method="post">
+    <div class="form-group mb-3">
+        <label asp-for="Album.Title" class="form-label">Album Title</label>
+        <input asp-for="Album.Title" class="form-control" />
+        <span asp-validation-for="Album.Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Album.ArtistId" class="form-label">Artist</label>
+        <select asp-for="Album.ArtistId" class="form-select" asp-items="Model.ArtistList">
+            <option value="">-- Select Artist --</option>
+        </select>
+        <span asp-validation-for="Album.ArtistId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="Index" class="btn btn-secondary ms-2">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,5 +1,0 @@
-C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\obj\Debug\net8.0\Internet Scripting.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\obj\Debug\net8.0\Internet Scripting.AssemblyInfoInputs.cache
-C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\obj\Debug\net8.0\Internet Scripting.AssemblyInfo.cs
-C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\obj\Debug\net8.0\Internet Scripting.csproj.CoreCompileInputs.cache
-C:\Users\corey\OneDrive - University of the West of Scotland\UWS\Year 3\Term 2\Internet Scripting\obj\Debug\net8.0\Internet Scripting.sourcelink.json
