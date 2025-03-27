@@ -12,11 +12,17 @@ namespace project.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Track>()
-                .HasOne(t => t.Album)
-                .WithMany(a => a.Tracks)
+            modelBuilder.Entity<Album>()
+                .HasMany(a => a.Tracks)
+                .WithOne(t => t.Album)
                 .HasForeignKey(t => t.AlbumId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<Artist>()
+                .HasMany(a => a.Albums)
+                .WithOne(a => a.Artist)
+                .HasForeignKey(a => a.ArtistId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

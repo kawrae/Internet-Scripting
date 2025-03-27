@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\corey\\OneDrive - University of the West of Scotland\\UWS\\Year 3\\Term 2\\Internet Scripting\\CourseworkTwo\\project\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
       "Id": "C:\\Users\\corey\\OneDrive - University of the West of Scotland\\UWS\\Year 3\\Term 2\\Internet Scripting\\CourseworkTwo\\project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

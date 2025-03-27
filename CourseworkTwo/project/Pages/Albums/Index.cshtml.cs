@@ -30,10 +30,15 @@ public class IndexModel : PageModel
             var lowered = SearchTerm.ToLower();
             query = query.Where(a =>
                 a.Title.ToLower().Contains(lowered) ||
-                a.Artist!.Name.ToLower().Contains(lowered));
+                (a.Artist != null && a.Artist.Name.ToLower().Contains(lowered)));
         }
 
-        Albums = await query.OrderBy(a => a.Title).ToListAsync();
+
+        Albums = await query
+    .OrderBy(a => a.Title)
+    .ThenBy(a => a.AlbumId)
+    .ToListAsync();
+
     }
 
 }

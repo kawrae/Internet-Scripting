@@ -42,15 +42,11 @@ public class DeleteModel : PageModel
             return NotFound();
         }
 
-        if (album.Tracks != null && album.Tracks.Any())
-        {
-            _context.Tracks.RemoveRange(album.Tracks);
-            await _context.SaveChangesAsync();
-        }
-
+        _context.Tracks.RemoveRange(album.Tracks);
         _context.Albums.Remove(album);
         await _context.SaveChangesAsync();
 
         return RedirectToPage("Index");
     }
+
 }

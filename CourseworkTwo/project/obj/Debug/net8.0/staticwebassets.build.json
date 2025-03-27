@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5Go/JypwTdvFsDsicyZI90R6IdUQ/XpCE77VYToPOZE=",
+  "Hash": "omvy0JOuvVkoNSD+wxyjDS7cDCjQnvvd1aa/gUpXaok=",
   "Source": "project",
   "BasePath": "_content/project",
   "Mode": "Default",
@@ -72,25 +72,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\corey\\OneDrive - University of the West of Scotland\\UWS\\Year 3\\Term 2\\Internet Scripting\\CourseworkTwo\\project\\wwwroot\\favicon.ico",
-      "SourceId": "project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\corey\\OneDrive - University of the West of Scotland\\UWS\\Year 3\\Term 2\\Internet Scripting\\CourseworkTwo\\project\\wwwroot\\",
-      "BasePath": "_content/project",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\corey\\OneDrive - University of the West of Scotland\\UWS\\Year 3\\Term 2\\Internet Scripting\\CourseworkTwo\\project\\wwwroot\\js\\site.js",
